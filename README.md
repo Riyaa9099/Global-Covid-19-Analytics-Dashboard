@@ -107,7 +107,7 @@ Evaluates operational regions to support strategic healthcare planning.
 - Recovery rate comparison  
 - Regional death burden  
 
-📷 **Dashboard Preview:**  
+**Dashboard Preview:**  
 <img width="1170" height="571" alt="who_summary" src="https://github.com/user-attachments/assets/be9d8a3c-463f-4a55-8c94-2c0d1e518d97" />
 
 # Key Insights
